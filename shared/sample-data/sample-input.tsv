@@ -1,0 +1,31 @@
+Area Code [Note 1]	UK Country	Passport Held [Note 3b]	Passport Held [Note 3a]	Count
+K04000001	England and Wales	EU countries	Europe: EU countries: European Union EU14	79870
+K04000001	England and Wales	EU countries	Europe: EU countries: European Union EU8	28110
+K04000001	England and Wales	EU countries	Europe: EU countries: European Union EU2	43965
+K04000001	England and Wales	EU countries	Europe: Other Europe: EU countries	6465
+K04000001	England and Wales	Non-EU countries	Europe: Other Europe: Non-EU countries	10970
+K04000001	England and Wales	Non-EU countries	Middle East and Asia	143300
+K04000001	England and Wales	Non-EU countries	Africa	37890
+K04000001	England and Wales	Non-EU countries	The Americas and the Caribbean	21005
+K04000001	England and Wales	Non-EU countries	Antarctica and Oceania	2025
+K04000001	England and Wales	Non-EU countries	British Overseas Territories	[c]
+E92000001	England	EU countries	Europe: EU countries: European Union EU14	77820
+E92000001	England	EU countries	Europe: EU countries: European Union EU8	26490
+E92000001	England	EU countries	Europe: EU countries: European Union EU2	43310
+E92000001	England	EU countries	Europe: Other Europe: EU countries	6135
+E92000001	England	Non-EU countries	Europe: Other Europe: Non-EU countries	10630
+E92000001	England	Non-EU countries	Middle East and Asia	137735
+E92000001	England	Non-EU countries	Africa	36325
+E92000001	England	Non-EU countries	The Americas and the Caribbean	20470
+E92000001	England	Non-EU countries	Antarctica and Oceania	1985
+E92000001	England	Non-EU countries	British Overseas Territories	[c]
+W92000004	Wales	EU countries	Europe: EU countries: European Union EU14	2050
+W92000004	Wales	EU countries	Europe: EU countries: European Union EU8	1620
+W92000004	Wales	EU countries	Europe: EU countries: European Union EU2	655
+W92000004	Wales	EU countries	Europe: Other Europe: EU countries	325
+W92000004	Wales	Non-EU countries	Europe: Other Europe: Non-EU countries	340
+W92000004	Wales	Non-EU countries	Middle East and Asia	5565
+W92000004	Wales	Non-EU countries	Africa	1565
+W92000004	Wales	Non-EU countries	The Americas and the Caribbean	535
+W92000004	Wales	Non-EU countries	Antarctica and Oceania	40
+W92000004	Wales	Non-EU countries	British Overseas Territories	[c]
