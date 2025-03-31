@@ -6,12 +6,12 @@ Users can configure and execute the process on a standard Linux system.
 
 
 ## Key Features
-- Balanced Splitting: The input file is divided into multiple smaller files of approximately equal size. However, the size balancing is secondary to preserving the integrity of grouped data. \
-- Grouping: All rows corresponding to a specific group (identified by the first column) are kept together in the same output file, even if it means slight variations in file sizes.\
-- Handling Non-Contiguous Data: While most group-related rows appear sequentially, the solution accounts for instances where rows for the same group appear later in the file.\
-- Configurable Split Thresholds: Users can define a threshold (T) for splitting based on either row count or disk size (e.g., ensuring output files stay below 10MB).\
+- Balanced Splitting: The input file is divided into multiple smaller files of approximately equal size. However, the size balancing is secondary to preserving the integrity of grouped data.
+- Grouping: All rows corresponding to a specific group (identified by the first column) are kept together in the same output file, even if it means slight variations in file sizes.
+- Handling Non-Contiguous Data: While most group-related rows appear sequentially, the solution accounts for instances where rows for the same group appear later in the file.
+- Configurable Split Thresholds: Users can define a threshold (T) for splitting based on either row count or disk size (e.g., ensuring output files stay below 10MB).
 - Preserving Data Structure: The column format and all row data remain unchanged across output files.
-- Optional Header Inclusion: The solution provides an option to include or exclude the header row in each split file.\
+- Optional Header Inclusion: The solution provides an option to include or exclude the header row in each split file.
 
 ## Requirments
 It sould be CSV/TSV and have unique identifier group by the first column.
